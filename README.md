@@ -3,7 +3,7 @@
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=GitHub1he)
 
 <!-- 技术栈 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitHub1he)
 
 <!-- pr贪吃蛇 -->
 <!-- <picture>
